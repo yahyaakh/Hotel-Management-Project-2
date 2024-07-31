@@ -1,0 +1,5 @@
+standard1
+deluxe2
+deluxe3
+deluxe4
+standard2

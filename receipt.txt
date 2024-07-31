@@ -1,0 +1,59 @@
+Room Reservation Receipt
+Room Type: standard
+Room Number: standard1
+Total Amount: $30.00
+-------------------------
+Room Reservation Receipt
+Room Type: deluxe
+Room Number: deluxe1
+Total Amount: $55.00
+-------------------------
+Room Reservation Receipt
+Customer Name: customer1
+Room Type: deluxe
+Room Number: deluxe1
+Check-In Date: 2024-06-1
+Check-Out Date: 2024-06-12
+Total Amount: $55.00
+-------------------------
+Room Reservation Receipt
+Room Type: deluxe
+Room Number: deluxe2
+Total Amount: $55.00
+-------------------------
+Room Reservation Receipt
+Room Type: deluxe
+Room Number: deluxe3
+Total Amount: $55.00
+-------------------------
+Room Reservation Receipt
+Customer Name: customer1
+Room Type: deluxe
+Room Number: deluxe3
+Check-In Date: 2024-06-01
+Check-Out Date: 2024-06-03
+Total Amount: $55.00
+-------------------------
+Room Reservation Receipt
+Room Type: deluxe
+Room Number: deluxe3
+Total Amount: $55.00
+-------------------------
+Room Reservation Receipt
+Room Type: deluxe
+Room Number: deluxe4
+Total Amount: $55.00
+-------------------------
+Room Reservation Receipt
+Room Type: standard
+Room Number: standard2
+Total Amount: $30.00
+-------------------------
+Room Reservation Receipt
+Customer Name: customer3
+Room Type: deluxe
+Room Number: deluxe1
+Check-In Date: 4
+Check-Out Date: 1
+Total Amount: $55.00
+-------------------------
